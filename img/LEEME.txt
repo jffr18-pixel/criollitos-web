@@ -1,0 +1,19 @@
+Coloca aquí tus fotos con estos nombres exactos:
+
+  1.jpg  -> cachapa
+  2.jpg  -> arepa de pollo
+  3.jpg  -> pabellon criollo
+  4.jpg  -> arepa con caraotas
+  5.jpg  -> empanadas
+  6.jpg  -> tequeños
+
+  logo.png              -> tu logo
+  og-criollitos.jpg     -> imagen para compartir en redes (1200x630 px)
+  apple-touch-icon.png  -> icono iPhone (180x180 px)
+  icon-192.png          -> icono app Android (192x192 px)
+  icon-512.png          -> icono app Android (512x512 px)
+
+Consejo: recorta las fotos cuadradas y comprimelas en tinypng.com
+para que la web cargue rapidisimo (mejor SEO).
+
+Mientras no pongas fotos, la galeria se ve con iconos y queda bien igualmente.
