@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jffr18-pixel.github.io/criollitos-web/sitemap.xml
+Sitemap: https://criollitos.es/sitemap.xml
